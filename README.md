@@ -1,6 +1,11 @@
 # KNearestNeighbors - KNN
 
-## 1 - Codes and Descriptions
+## 1 - Code and Description
+### Code
+https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/KNNCode_JIOG.py
+
+### Description
+https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/KNNDescription_JIOG.ipynb
 
 ## 2 - Introduction
 The K-nearest neighbors algorithm (K-nearest neighbors in English and KNN for its acronym in English) is a Machine Learning algorithm that belongs to the simple and easy to apply supervised learning algorithms [1].
