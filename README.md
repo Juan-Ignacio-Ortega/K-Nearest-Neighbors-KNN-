@@ -167,13 +167,17 @@ The 'Tumor Classification KNN' database (DB) obtained from Kaggle from [4] was u
 ## References
 [1] A. Mike, ¿Qué es el algoritmo KNN?, Formación en ciencia de datos | DataScientest.com,
 28-dic-2021.
+
 [2] 1.6. Nearest Neighbors, scikit-learn. [En línea]. Disponible en: https://scikitlearn/
 stable/modules/neighbors.html. [Accedido: 04-may-2022].
+
 [3] D. Lopez-Bernal, D. Balderas, P. Ponce, y A. Molina, Education 4.0: Teaching the basics of
 KNN, LDA and Simple Perceptron algorithms for binary classification problems, Future internet,
 vol. 13, n.o 8, p. 193, 2021.
+
 [4] Shubhankitsirvaiya, Tumour Classification KNN, Kaggle.com, 16-feb-2021. [En línea].
 Disponible en: https://kaggle.com/shubhankitsirvaiya06/tumour-classification-knn. [Accedido:
 04-may-2022].
+
 [5] M. A. Aceves Fernández, Inteligencia Artificial para programadores con prisa. UNIVERSO de
 LETRAS, 2021.
