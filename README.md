@@ -1,4 +1,4 @@
-# KNearestNeighbors-KNN
+# KNearestNeighbors - KNN
 
 ## 1 - Codes and Descriptions
 
@@ -20,13 +20,13 @@ The logic behind the KNN algorithm is one of the simplest of all supervised ML a
 Stage 1: Select the number of K neighbors.
 Stage 2: Calculate the distance from an unclassified point to other points. For this stage it is possible to use the Euclidean distance presented in Fig. 1.
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/EucDist.png?raw=true)
 
 Figure 1. Euclidean distance formula [1].
 Stage 3: Take the K nearest neighbors based on the calculated distance.
 Stage 4: Among the neighboring K's, count the number of points in each category. To better understand the stages up to this stage, it can be seen graphically in the following figure.
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/KNN_DifK.png?raw=true)
 
 Figure 2. Classification based on different K values ​​[3].
 
@@ -42,7 +42,7 @@ So, for the classification of this new individual, K = 7 is better than K = 3 be
 3.4 Selection of the best number K of nearest neighbors.
 It is possible to consider a way of choosing the K that makes the classification better. One way to find it is to plot the graph of the K value and the error rate corresponding to the data set, as shown in Figure 3, for a random example where the best prediction rate is obtained with a K between 5 and 18 [1].
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/TasaDError.png?raw=true)
 
 Figure 3. Value of the error rate of a random example [1].
 
@@ -110,7 +110,7 @@ There can only be four different types of results that give the confusion matrix
 3. False positive (FP) - You have a negative value despite having predicted a positive value.
 4. False negative (FN) - There is a positive value despite having predicted a negative value [5].
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/MatrizDConfusion.png?raw=true)
 
 Figure 4. Confusion matrix for error calculation [5].
 
@@ -152,7 +152,7 @@ five copies with the data. In the first copy, the first fifth part is removed, i
 
 The data is divided as homogeneously as possible, that is, each partition contains approximately the same amount of data. As a graphic way of representing this, the example of the following figure [5] can be shown:
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/KNearestNeighbors-KNN/blob/main/KFold.jpeg?raw=true)
 
 Figure 5. Example of the distribution of tests for a ‘10-Fold’ cross-validation [5].
 
